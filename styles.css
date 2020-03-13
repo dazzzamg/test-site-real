@@ -1,0 +1,107 @@
+.body {
+    font-family: "Arial";
+}
+
+
+
+#title {
+    background-color:#ff4c68;
+    color: #fff;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+h1 {
+    position: relative;
+    top:100px;
+    font-family: "Arial Black";
+    font-size: 4 rem;
+    line-height: 4.5px;
+}
+
+h2{
+    font-family: "Arial black";
+}
+
+h3 {
+    font-family: "Arial Black";
+}
+
+p {
+    color: #8f8f8f;
+}
+/* Navigation bar */
+
+ .navbar {
+    padding: 0, 0, 4.5rem;
+
+}
+
+ .navbar-brand{
+    font-family: Ubuntu ;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 100px;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    font-family: "Arial Black";
+}
+
+.download-button{
+    margin: 20% 8% 9% 5%;
+}
+
+.title-image {}
+
+
+#features{
+    padding: 7% 15%;
+    background-color:#fff;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 10px;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color:#ff4c68;
+    color: #fff;
+}
+
+.cyber-pic {
+    width: 45% ;
+    border-radius: 100%;
+}
+
+.orbit-pic{
+    width: 45% ;
+    border-radius: 100%;
+}
+
+#pricing {
+    padding:100px;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+    text-align:center;
+}
